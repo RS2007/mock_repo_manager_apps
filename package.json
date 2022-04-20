@@ -1,0 +1,23 @@
+{
+  "name": "managerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RS2007/mock_repo_manager_apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RS2007/mock_repo_manager_apps/issues"
+  },
+  "homepage": "https://github.com/RS2007/mock_repo_manager_apps#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
