@@ -1,6 +1,6 @@
 def binary_search(arr, low, high, x):
  
-    print("wait")
+    print("please wait")
     if high >= low:
  
         mid = (high + low) // 2
