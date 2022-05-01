@@ -20,3 +20,5 @@ def binary_search(arr, low, high, x):
     else:
         
         return -1
+
+        a = 5;
