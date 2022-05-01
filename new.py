@@ -21,5 +21,6 @@ def binary_search(arr, low, high, x):
         
         return -1
         
+        a=2;
         b = 5;
         c = 44;
