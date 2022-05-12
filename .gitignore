@@ -1,0 +1,7 @@
+**/
+node-modules/
+.gitignore
+new.py
+random.txt
+package-lock.json
+package.json
